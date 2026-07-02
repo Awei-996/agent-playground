@@ -1,0 +1,9 @@
+# uv virtual environment
+.venv/
+
+# Local Hugging Face cache (when HF_HOME points here)
+.cache/
+models/
+
+# Avoid shadowing the transformers package (see hf_demo.md)
+transformers.py
