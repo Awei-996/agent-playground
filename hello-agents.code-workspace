@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "hello-agents/chapter-03",
+      "name": "chapter-03"
+    },
+    {
+      "path": "hello-agents/chapter-04",
+      "name": "chapter-04"
+    },
+    {
+      "path": "hello-agents/chapter-06",
+      "name": "chapter-06"
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true
+  }
+}
